@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMC_AMOUNT_SEPARATOR</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Ammount separators messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_AMOUNT_SEPARATOR</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Decimal separator before thousand separator in &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_AMOUNT_SEPARATOR</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Error in thousands in &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_AMOUNT_SEPARATOR</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>More than one decimal separator in &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_AMOUNT_SEPARATOR</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Decimal separator and thousand separator are the same &apos;&amp;&apos;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMC_STR_LEN_TOO_LARG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class for ZCX_STRING_LENGTH_TOO_LARGE</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_STR_LEN_TOO_LARG</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>String length(&amp;1) is greater than expected length(&amp;2), Orig.Value: &amp;3</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
